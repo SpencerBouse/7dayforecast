@@ -1,0 +1,23 @@
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px white inset; }
+
+body {
+  background-position: center;
+  background: url("http://www.animateit.net/data/media/188/donderwolk.gif"); }
+
+header {
+  margin-left: 50px;
+  margin-top: 20px;
+  color: #000066; }
+
+#weather {
+  margin: 0 auto; }
+
+.divide {
+  border: 2px solid black;
+  background-color: #ccccff;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  text-transform: capitalize; }
