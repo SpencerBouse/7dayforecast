@@ -15,6 +15,7 @@ $.ajax({url: url,
           <h5>${day.weather[0].description}</h5>
           <p>Max Temp: ${day.temp.max}</p>
           <p>Min Temp:${day.temp.min}</p>
+          <img src="http://openweathermap.org/img/w/${day.weather[0].icon}.png">
         </div>
         `);
   });

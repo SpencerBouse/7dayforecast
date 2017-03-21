@@ -3,7 +3,8 @@ input:-webkit-autofill {
 
 body {
   background-position: center;
-  background: url("http://www.animateit.net/data/media/188/donderwolk.gif"); }
+  background: url("http://www.animateit.net/data/media/188/donderwolk.gif");
+  background-color: #737373; }
 
 header {
   margin-left: 50px;
@@ -20,4 +21,5 @@ header {
   margin-left: 10px;
   margin-right: 10px;
   padding: 5px;
-  text-transform: capitalize; }
+  text-transform: capitalize;
+  border-radius: 5px; }

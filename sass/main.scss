@@ -4,6 +4,7 @@ input:-webkit-autofill {
 body{
   background-position: center;
   background: url('http://www.animateit.net/data/media/188/donderwolk.gif');
+  background-color: lighten(black,45);
 }
 header{
   margin-left: 50px;
@@ -21,4 +22,5 @@ header{
   margin-right: 10px;
   padding:5px;
   text-transform: capitalize;
+  border-radius: 5px;
   }
